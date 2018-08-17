@@ -1,0 +1,53 @@
+{
+  "resource": "/testing-url-endpoint",
+  "path": "/testing-url-endpoint",
+  "httpMethod": "GET",
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "en-US,en;q=0.9,la;q=0.8",
+    "cache-control": "max-age=0",
+    "dnt": "1",
+    "Host": "832m32dkbf.execute-api.us-east-2.amazonaws.com",
+    "upgrade-insecure-requests": "1",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36",
+    "X-Amzn-Trace-Id": "Root=1-5b746430-9af3ae823fe8a27a81e2523e",
+    "X-Forwarded-For": "12.124.128.222",
+    "X-Forwarded-Port": "443",
+    "X-Forwarded-Proto": "https"
+  },
+  "queryStringParameters": {
+    "url": "https://gizmodo.com"
+  },
+  "pathParameters": null,
+  "stageVariables": null,
+  "requestContext": {
+    "resourceId": "nvzx7a",
+    "resourcePath": "/testing-url-endpoint",
+    "httpMethod": "GET",
+    "extendedRequestId": "LrSXgHUtCYcFeiw=",
+    "requestTime": "15/Aug/2018:17:34:40 +0000",
+    "path": "/default/testing-url-endpoint",
+    "accountId": "572049174311",
+    "protocol": "HTTP/1.1",
+    "stage": "default",
+    "requestTimeEpoch": 1534354480023,
+    "requestId": "7cead3d3-a0b1-11e8-a368-2bce78fd0f3a",
+    "identity": {
+      "cognitoIdentityPoolId": null,
+      "accountId": null,
+      "cognitoIdentityId": null,
+      "caller": null,
+      "sourceIp": "12.124.128.222",
+      "accessKey": null,
+      "cognitoAuthenticationType": null,
+      "cognitoAuthenticationProvider": null,
+      "userArn": null,
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36",
+      "user": null
+    },
+    "apiId": "832m32dkbf"
+  },
+  "body": null,
+  "isBase64Encoded": false
+}
